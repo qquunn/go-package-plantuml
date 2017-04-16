@@ -1,0 +1,4 @@
+.idea
+*.iml
+temp*.txt
+go-package-plantuml
